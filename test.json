@@ -1,0 +1,91 @@
+{
+    "任务1": [
+        {
+            "listener": "11",
+            "jobMethod": "DG-LAB",
+            "callback": "11",
+            "remark": "11",
+            "DgLab": {
+                "waveA": "潮汐",
+                "waveB": "连击",
+                "waveATime": "1300",
+                "waveBTime": "2800",
+                "waveAStrength": "11",
+                "waveBStrength": "11"
+            }
+        },{
+            "listener": "111",
+            "jobMethod": "DG-LAB",
+            "callback": "111",
+            "remark": "111",
+            "DgLab": {
+                "waveA": "潮汐",
+                "waveB": "连击",
+                "waveATime": "1300",
+                "waveBTime": "2800",
+                "waveAStrength": "111",
+                "waveBStrength": "111"
+            }
+        }
+    ],
+    "任务12": [
+        {
+            "listener": "222",
+            "jobMethod": "DG-LAB",
+            "callback": "222",
+            "remark": "222",
+            "DgLab": {
+                "waveA": "潮汐",
+                "waveB": "连击",
+                "waveATime": "1300",
+                "waveBTime": "2800",
+                "waveAStrength": "222",
+                "waveBStrength": "222"
+            }
+        },
+        {
+            "listener": "11222",
+            "jobMethod": "DG-LAB",
+            "callback": "22222",
+            "remark": "32232",
+            "DgLab": {
+                "waveA": "潮汐",
+                "waveB": "连击",
+                "waveATime": "1300",
+                "waveBTime": "2800",
+                "waveAStrength": "22",
+                "waveBStrength": "22"
+            }
+        }
+    ],
+    "任务123": [
+        {
+            "listener": "333",
+            "jobMethod": "DG-LAB",
+            "callback": "333",
+            "remark": "333",
+            "DgLab": {
+                "waveA": "潮汐",
+                "waveB": "连击",
+                "waveATime": "1300",
+                "waveBTime": "2800",
+                "waveAStrength": "333",
+                "waveBStrength": "333"
+            }
+        },
+        {
+            "listener": "33",
+            "jobMethod": "DG-LAB",
+            "callback": "33",
+            "remark": "33",
+            "DgLab": {
+                "waveA": "潮汐",
+                "waveB": "连击",
+                "waveATime": "1300",
+                "waveBTime": "2800",
+                "waveAStrength": "33",
+                "waveBStrength": "33"
+            }
+        }
+    ]
+}
