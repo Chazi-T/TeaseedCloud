@@ -1,0 +1,146 @@
+{
+    "触感球": [
+        {
+            "listener": "/avatar/parameters/HapticHub/v1/Head",
+            "jobMethod": "DG-LAB",
+            "callback": "0",
+            "remark": "头部",
+            "DgLab": {
+                "waveA": "潮汐",
+                "waveB": "连击",
+                "waveATime": "1300",
+                "waveBTime": "2800",
+                "waveAStrength": "1",
+                "waveBStrength": "1"
+            }
+        },
+        {
+            "listener": "/avatar/parameters/HapticHub/v1/LeftArm",
+            "jobMethod": "DG-LAB",
+            "callback": "0",
+            "remark": "左肩",
+            "DgLab": {
+                "waveA": "潮汐",
+                "waveB": "连击",
+                "waveATime": "1300",
+                "waveBTime": "2800",
+                "waveAStrength": "1",
+                "waveBStrength": "1"
+            }
+        },
+        {
+            "listener": "/avatar/parameters/HapticHub/v1/RightArm",
+            "jobMethod": "DG-LAB",
+            "callback": "0",
+            "remark": "右肩",
+            "DgLab": {
+                "waveA": "潮汐",
+                "waveB": "连击",
+                "waveATime": "1300",
+                "waveBTime": "2800",
+                "waveAStrength": "1",
+                "waveBStrength": "1"
+            }
+        },
+        {
+            "listener": "/avatar/parameters/HapticHub/v1/Hips",
+            "jobMethod": "DG-LAB",
+            "callback": "0",
+            "remark": "小腹",
+            "DgLab": {
+                "waveA": "潮汐",
+                "waveB": "连击",
+                "waveATime": "1300",
+                "waveBTime": "2800",
+                "waveAStrength": "1",
+                "waveBStrength": "1"
+            }
+        },
+        {
+            "listener": "/avatar/parameters/HapticHub/v1/Hips",
+            "jobMethod": "DG-LAB",
+            "callback": "0",
+            "remark": "小腹",
+            "DgLab": {
+                "waveA": "潮汐",
+                "waveB": "连击",
+                "waveATime": "1300",
+                "waveBTime": "2800",
+                "waveAStrength": "1",
+                "waveBStrength": "1"
+            }
+        },
+        {
+            "listener": "/avatar/parameters/HapticHub/v1/LeftLeg",
+            "jobMethod": "DG-LAB",
+            "callback": "0",
+            "remark": "左腿",
+            "DgLab": {
+                "waveA": "潮汐",
+                "waveB": "连击",
+                "waveATime": "1300",
+                "waveBTime": "2800",
+                "waveAStrength": "1",
+                "waveBStrength": "1"
+            }
+        },
+        {
+            "listener": "/avatar/parameters/HapticHub/v1/RightLeg",
+            "jobMethod": "DG-LAB",
+            "callback": "0",
+            "remark": "右腿",
+            "DgLab": {
+                "waveA": "潮汐",
+                "waveB": "连击",
+                "waveATime": "1300",
+                "waveBTime": "2800",
+                "waveAStrength": "1",
+                "waveBStrength": "1"
+            }
+        },
+        {
+            "listener": "/avatar/parameters/HapticHub/v1/LeftFoot",
+            "jobMethod": "DG-LAB",
+            "callback": "0",
+            "remark": "左脚",
+            "DgLab": {
+                "waveA": "潮汐",
+                "waveB": "连击",
+                "waveATime": "1300",
+                "waveBTime": "2800",
+                "waveAStrength": "1",
+                "waveBStrength": "1"
+            }
+        },
+        {
+            "listener": "/avatar/parameters/HapticHub/v1/RightFoot",
+            "jobMethod": "DG-LAB",
+            "callback": "0",
+            "remark": "右脚",
+            "DgLab": {
+                "waveA": "潮汐",
+                "waveB": "连击",
+                "waveATime": "1300",
+                "waveBTime": "2800",
+                "waveAStrength": "1",
+                "waveBStrength": "1"
+            }
+        }
+    ],
+    "通用PCS": [
+        {
+            "listener": "/avatar/parameters/pcs/contact/enterPass",
+            "jobMethod": "DG-LAB",
+            "callback": "0",
+            "remark": "PCS",
+            "DgLab": {
+                "waveA": "潮汐",
+                "waveB": "连击",
+                "waveATime": "1300",
+                "waveBTime": "2800",
+                "waveAStrength": "1",
+                "waveBStrength": "1"
+            }
+        }
+    ]
+}
