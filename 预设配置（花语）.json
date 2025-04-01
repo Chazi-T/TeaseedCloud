@@ -43,10 +43,10 @@
             }
         },
         {
-            "listener": "/avatar/parameters/HapticHub/v1/Hips",
+            "listener": "/avatar/parameters/HapticHub/v1/Chest",
             "jobMethod": "DG-LAB",
             "callback": "0",
-            "remark": "小腹",
+            "remark": "胸部",
             "DgLab": {
                 "waveA": "潮汐",
                 "waveB": "连击",
