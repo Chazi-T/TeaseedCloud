@@ -1,5 +1,5 @@
 {
-    "触感球": [
+    "HapticHub触感球": [
         {
             "listener": "/avatar/parameters/HapticHub/v1/Head",
             "jobMethod": "DG-LAB",
